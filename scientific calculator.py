@@ -1,3 +1,4 @@
+#Scientific Calculator
 import math
 print("\nWELCOME :)\n")
 print("Type 'a' for addition")
